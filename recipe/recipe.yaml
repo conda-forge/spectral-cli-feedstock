@@ -1,5 +1,5 @@
 context:
-  version: "6.15.0"
+  version: "6.16.1"
 
 package:
   name: spectral-cli
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/@stoplight/spectral-cli/-/spectral-cli-${{ version }}.tgz
-  sha256: d4e7bd215586ba1619bb495b6d7ecc336431eab9ab0214f0b16ab56a9c145072
+  sha256: e49f0d2eb91080a06902b0af97fe57cb4e9030c74805fb45b095820cba60093a
 
 build:
   number: 0
